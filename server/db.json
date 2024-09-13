@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "product"
+    },
+    {
+      "id": 2,
+      "name": "product_2"
+    },
+    {
+      "id": 3,
+      "name": "product_3"
+    }
+  ],
+  "gravity_falls": [
+    {
+      "id": 32,
+      "name": "Alex Hirsh"
+    },
+    {
+      "id": 3333,
+      "name": "Bill Shifr"
+    }
+  ],
+  "games": [
+    {
+      "id": 87,
+      "name": "Dota2"
+    },
+    {
+      "id": 55,
+      "name": "MLBB"
+    }
+  ],
+  "category_names": [
+    {
+      "id": "11",
+      "name": "items",
+      "path": "/items"
+    },
+    {
+      "id": "12",
+      "name": "gravity_falls",
+      "path": "/gravity_falls"
+    },
+    {
+      "id": "13",
+      "name": "games",
+      "path": "/games"
+    }
+  ]
+}
